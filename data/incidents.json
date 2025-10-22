@@ -1,0 +1,14 @@
+[
+  {"id":"n1","lat":37.7749,"lng":-122.4194,"severity":3,"label":"SAN FRANCISCO"},
+  {"id":"n2","lat":51.5072,"lng":-0.1276,"severity":2,"label":"LONDON"},
+  {"id":"n3","lat":40.7128,"lng":-74.006,"severity":4,"label":"NEW YORK"},
+  {"id":"n4","lat":34.0522,"lng":-118.2437,"severity":3,"label":"LOS ANGELES"},
+  {"id":"n5","lat":35.6895,"lng":139.6917,"severity":5,"label":"TOKYO"},
+  {"id":"n6","lat":48.8566,"lng":2.3522,"severity":3,"label":"PARIS"},
+  {"id":"n7","lat":55.7558,"lng":37.6173,"severity":2,"label":"MOSCOW"},
+  {"id":"n8","lat":-33.8688,"lng":151.2093,"severity":4,"label":"SYDNEY"},
+  {"id":"n9","lat":28.6139,"lng":77.209,"severity":3,"label":"DELHI"},
+  {"id":"n10","lat":52.52,"lng":13.405,"severity":2,"label":"BERLIN"},
+  {"id":"n11","lat":19.4326,"lng":-99.1332,"severity":4,"label":"MEXICO CITY"},
+  {"id":"n12","lat":-23.5505,"lng":-46.6333,"severity":3,"label":"SAO PAULO"}
+]
